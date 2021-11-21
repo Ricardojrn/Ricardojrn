@@ -1,4 +1,4 @@
-## Olá, eu sou Ricardo Júnior! estudante de programação e tecnologia!
+## Olá, eu sou Ricardo Júnior! Estudante de eng. de software
 <div align="center">
   <a href="https://github.com/Ricardojrn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardojrn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
